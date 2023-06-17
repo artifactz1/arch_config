@@ -1,0 +1,3 @@
+#!/bin/sh
+
+redshift -O 4000k 

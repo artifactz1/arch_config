@@ -1,0 +1,8 @@
+#! /bin/sh 
+
+xrandr --output DP-2 --rotate right --right-of DP-4 --mode 1920x1080 --rate 144.00 \
+--output DP-4 --rotate normal --mode 1920x1080 --rate 239.96  \
+--output HDMI-0 --rotate left --left-of DP-4 --mode 1920x1080 --rate 144.00 --primary \
+--output DP-0 --rotate normal --above DP-4 --mode 2560x1080 --rate 60.00 \
+--output DP-5 --off
+

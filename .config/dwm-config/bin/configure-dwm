@@ -1,0 +1,3 @@
+#!/bin/sh
+
+vim ~/.config/dwm-config/dwm/config.def.h
